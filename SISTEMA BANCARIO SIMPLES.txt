@@ -1,0 +1,16 @@
+#SISTEMA BANCÁRIO SIMPLES.
+
+montar um sistema bancário simples em Python com as funções de depósito, saque e extrato.
+#
+
+
+O que esse código cobre:
+Controle de saldo
+
+Limite de saque por valor e por quantidade diária
+
+Registro de movimentações no extrato
+
+Interface simples via terminal
+
+
