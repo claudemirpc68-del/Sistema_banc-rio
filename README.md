@@ -1,3 +1,9 @@
+OB:ESTE PROJETO TEM DUAS VERSÕES UMA SIMPLES COM FUNCIONALIDADES BÁSICAS , E UMA OUTRA COM INTEGRAÇÃO DE OUTRAS FUNCIONALIDADES BÁSICAS PERTINENTES AO SISTEMA DE CAIXA ELETRÔNICO.
+ 
+ 
+ 
+ 
+ 
  Sistema Bancário em Python
 Este projeto é um sistema bancário simples desenvolvido em Python como parte da trilha de aprendizado da DIO. Ele simula operações básicas de uma conta corrente, como depósitos, saques e emissão de extrato, com regras de negócio aplicadas para controle de limite e segurança.
 
